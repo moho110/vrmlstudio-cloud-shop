@@ -12,7 +12,7 @@
 | SpringBoot         | 容器+MVC框架 | https://spring.io/projects/spring-boot                |
 | SpringCloud        | 微服务架构   | https://spring.io/projects/spring-cloud               |
 | SpringCloudAlibaba | 一系列组件   | https://spring.io/projects/spring-cloud-alibaba       |
-| MyBatis-Plus       | ORM框架      | [https://mp.baomidou.com](https://mp.baomidou.com/)   |
+| MyBatis            | ORM框架      | [https://mybatis.net.cn/](https://mybatis.net.cn/)   |
 | Elasticsearch      | 搜索引擎     | https://github.com/elastic/elasticsearch              |
 | RabbitMQ           | 消息队列     | [https://www.rabbitmq.com](https://www.rabbitmq.com/) |
 | Springsession      | 分布式缓存   | https://projects.spring.io/spring-session             |
